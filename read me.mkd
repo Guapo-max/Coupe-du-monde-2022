@@ -1,0 +1,9 @@
+ La mission que je me suis donné est de créer un blog complet sur la coupe du monde, les joueurs , les jeunes joueurs , les coachs et les stades.
+ Maintenant je dois réfélchir à comment faire tout ça . 
+
+1. Je pense que j'aurai 5 pages : accueuil , meilleurs joueurs, meilleurs jeunes , meilleurs coachs , meilleurs stades donc ça sera l'une des premieres choses à faire 
+2. ensuite il faudra allez chercher les photos des joueurs et des coachs et des stades 
+3. ensuite il faudrait pouvoir cliquer sur la photo afin d'avoir la description complète du joueur 
+4. il faudra ensuite donner la possibilité à l'utilisateur de faire son equipe type de la coupe du monde 
+5. donner la possibilité à l'utilisateur de pouvoir commenter 
+   
