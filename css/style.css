@@ -1,0 +1,48 @@
+
+body {
+
+    display: block;
+}
+
+
+
+/* j'aimerai mettre le texte au centre de la page*/
+
+h1 {
+    font-weight: bold;
+    color: black;
+    font-size: big;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    
+  }
+
+
+
+p {
+    
+    color: black;
+    
+}
+
+
+
+.presentation {
+
+    front-style:italic;
+
+
+}
+
+
+
+/*j'aimerai que mon texte soit aligné à gauche et qu'ensuite on puisse cliquer dessus*/
+
+li {
+
+    width: left;
+    height: auto;
+    display: block
+    
+}
